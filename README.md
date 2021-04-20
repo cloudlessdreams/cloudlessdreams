@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cloudlessdreams
 - 👀 I’m interested in mostly Python projects | but any tech stack that is breaking new ground.
-- 🌱 I’m currently learning Flutter (for a particular project) in the short term but long term, Ai and Machine learning.
+- 🌱 I’m currently using Flutter (for a particular project) in the short term but long term, Ai and Machine learning.
 - 📫 ajmalibrarkhan88@gmail.com
 
 <!---
