@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cloudlessdreams
 - 👀 I’m interested in mostly Python projects | but any tech stack that is breaking new ground.
-- 🌱 I’m currently using Flutter (for a particular project) with Django backend (DRF).
+- 🌱 In short I make awesome stuff for awesome people 
 - 📫 ajmalibrarkhan88@gmail.com
 
 <!---
